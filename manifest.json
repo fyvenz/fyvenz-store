@@ -1,0 +1,21 @@
+
+{
+  "name": "Fyvenz Store",
+  "short_name": "Fyvenz",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#1a0000",
+  "theme_color": "#ff3c3c",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
